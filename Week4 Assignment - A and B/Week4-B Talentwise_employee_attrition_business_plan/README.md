@@ -9,27 +9,27 @@ Note: This repository is dedicated to my Ontario Tech AI Programming Lab and wil
 
 
 
-**Employee Attrition Prediction Using Decision Tree Classification**
+# Employee Attrition Prediction Using Decision Tree Classification
 
 Business Problem Employee attrition can lead to increased recruitment costs, loss of organizational knowledge, and reduced productivity. The objective of this project is to develop a machine learning model that predicts whether an employee is likely to leave the company so that HR teams can take proactive retention actions. Dataset Used
 
 The TalentWise Employee Attrition dataset contains 360 employee records and 19 variables describing employee demographics, work conditions, performance, engagement, and satisfaction.
 
-Target Variable: • Left_Company (0 = Stayed, 1 = Left)
+# Target Variable:
+Left_Company (0 = Stayed, 1 = Left)
 
-Machine Learning Model Used
-
+# Machine Learning Model Used
 A Decision Tree Classifier was developed using Scikit-Learn.
 
 Project steps included: • Data inspection and cleaning • Feature selection • One-Hot Encoding of categorical variables • Train-Test Split (80/20) • Decision Tree Classification • Model evaluation
 
-Main Evaluation Results
+# Main Evaluation Results
 
 Controlled Decision Tree Model: • Training Accuracy: 86.46% • Testing Accuracy: 79.17% • Precision: 84.13% • Recall: 91.38% • F1-Score: 87.60%
 
 Overfitted Decision Tree Model: • Training Accuracy: 100.00% • Testing Accuracy: 72.22%
 
-Key Business Insights
+# Key Business Insights
 
 The model demonstrates that employee attrition can be predicted with reasonable accuracy.
 
