@@ -53,15 +53,11 @@ Using one of the provided datasets, train two classification models:
 •	Logistic Regression
 •	SVM
 For both models, calculate:
-
-Description	              Logistic Regression	                SVM
-Confusion matrix	            [[52  6]                      [[56  2]     
-                              [11  5]]	                    [11  5]]
-
-Accuracy	                      0.77	                        0.82
-Precision	                      0.45	                        0.71
-Recall	                        0.31	                        0.31
-F1-score	                      0.37	                        0.43
+Confusion matrix
+Accuracy
+Precision
+Recall
+F1-score
 
 <img width="1003" height="280" alt="image" src="https://github.com/user-attachments/assets/01188939-499f-4c4b-be55-7b561a15f1d9" />
 
