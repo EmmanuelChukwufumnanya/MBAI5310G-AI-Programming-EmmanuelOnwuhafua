@@ -6,11 +6,7 @@ RepositoryDescription - This repository is dedicated to my Ontario Tech AI Progr
 
 Note: This repository is dedicated to my Ontario Tech AI Programming Lab and will be used for my weekly assignments and final project.
 
-Week5 Assignment
-
-## Assignment Week 6
-
-## Assignment Title: Model Evaluation, Explainability, and Fairness Reflection
+## Assignment Week 6: Assignment Title: Model Evaluation, Explainability, and Fairness Reflection
 ## Dataset Description
 This study uses a clinic appointment dataset that contains information about patients, their appointments, and whether they attended or missed their scheduled visits. The dataset includes 380 records and 17 variables, consisting of both numerical and categorical features. The information captured in the dataset can help identify patterns that may influence appointment attendance and support the development of a predictive model. 
 
