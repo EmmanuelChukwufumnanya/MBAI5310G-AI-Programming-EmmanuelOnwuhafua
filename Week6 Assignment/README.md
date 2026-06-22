@@ -8,7 +8,7 @@ Note: This repository is dedicated to my Ontario Tech AI Programming Lab and wil
 
 Week5 Assignment
 
-#### Assignment Week 6
+## Assignment Week 6
 
 ## Assignment Title: Model Evaluation, Explainability, and Fairness Reflection
 ## Dataset Description
