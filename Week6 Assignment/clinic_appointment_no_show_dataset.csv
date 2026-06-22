@@ -1,0 +1,381 @@
+appointment_id,patient_age,age_group,gender,region,insurance_type,appointment_type,booking_channel,days_before_appointment_booked,previous_no_shows,previous_appointments,appointment_hour,reminder_sent,travel_distance_km,clinic_wait_time_minutes,patient_satisfaction_score,no_show
+A0001,56,51+,Male,West,Private,Diagnostic,Website,66,1,5,13,No,16.2,11,1,1
+A0002,33,26-35,Female,West,Private,Diagnostic,Phone,48,0,15,11,Yes,3.5,20,8,0
+A0003,83,51+,Male,North,Public,Diagnostic,Walk-in,69,0,24,12,Yes,23.9,79,6,1
+A0004,19,18-25,Male,North,Public,Diagnostic,Mobile App,73,1,8,13,Yes,20.3,7,4,0
+A0005,76,51+,Male,West,Private,General Checkup,Website,69,0,21,10,Yes,4.8,59,10,0
+A0006,28,26-35,Female,West,Public,General Checkup,Walk-in,7,0,14,13,Yes,46.8,81,8,0
+A0007,22,18-25,Female,West,Public,Follow-up,Phone,4,1,11,16,Yes,2.6,39,1,0
+A0008,59,51+,Female,South,Self-pay,Specialist,Mobile App,75,0,21,9,No,21.9,54,10,1
+A0009,72,51+,Male,East,Self-pay,Specialist,Website,49,0,13,15,Yes,33.7,22,4,0
+A0010,77,51+,Male,South,Private,Specialist,Website,62,1,21,13,Yes,35.2,24,3,0
+A0011,40,36-50,Female,East,Public,Diagnostic,Walk-in,13,0,10,14,Yes,33.4,55,9,0
+A0012,26,26-35,Female,East,Public,Follow-up,Phone,21,0,21,13,No,4.2,47,10,0
+A0013,24,18-25,Male,South,Private,Follow-up,Website,76,0,16,12,Yes,50.0,48,9,0
+A0014,83,51+,Male,West,Public,Follow-up,Phone,29,0,15,14,No,7.9,20,9,0
+A0015,80,51+,Female,South,Public,Follow-up,Walk-in,87,0,21,16,No,9.1,77,7,1
+A0016,45,36-50,Female,West,Public,Diagnostic,Phone,20,0,7,9,Yes,37.4,15,3,0
+A0017,74,51+,Female,West,Public,Specialist,Walk-in,71,2,7,15,No,1.7,51,10,1
+A0018,56,51+,Male,West,Private,Follow-up,Mobile App,10,1,6,15,Yes,12.3,26,6,0
+A0019,48,36-50,Female,North,Private,General Checkup,Mobile App,86,2,24,8,Yes,24.5,54,5,0
+A0020,71,51+,Female,South,Public,Follow-up,Mobile App,65,0,10,17,Yes,22.3,32,10,0
+A0021,67,51+,Male,North,Private,Specialist,Mobile App,48,0,15,9,Yes,32.6,93,7,1
+A0022,30,26-35,Male,East,Private,Follow-up,Walk-in,21,0,13,17,Yes,35.9,11,4,0
+A0023,80,51+,Male,North,Public,Follow-up,Mobile App,77,0,6,9,Yes,20.1,72,6,0
+A0024,28,26-35,Male,North,Self-pay,Diagnostic,Phone,39,4,1,14,Yes,12.0,24,8,1
+A0025,41,36-50,Male,West,Private,Specialist,Phone,27,0,16,9,Yes,2.2,70,6,0
+A0026,70,51+,Male,South,Private,General Checkup,Phone,37,0,17,13,No,48.9,88,4,1
+A0027,53,51+,Female,North,Public,Follow-up,Mobile App,16,0,10,9,Yes,7.2,60,5,0
+A0028,36,36-50,Female,East,Public,Diagnostic,Phone,50,1,3,10,Yes,33.7,92,4,1
+A0029,43,36-50,Male,North,Public,Diagnostic,Mobile App,7,1,21,9,Yes,36.4,55,2,1
+A0030,62,51+,Male,West,Private,Diagnostic,Mobile App,64,1,6,11,Yes,2.4,84,1,1
+A0031,73,51+,Male,South,Public,Specialist,Walk-in,39,0,16,13,Yes,2.7,29,1,0
+A0032,27,26-35,Female,West,Public,Specialist,Walk-in,22,0,17,17,No,34.0,36,7,0
+A0033,66,51+,Female,South,Self-pay,Diagnostic,Walk-in,63,0,7,12,No,33.4,36,5,1
+A0034,22,18-25,Female,East,Private,Follow-up,Mobile App,24,1,15,13,Yes,2.2,70,7,0
+A0035,45,36-50,Female,East,Private,Follow-up,Website,82,0,2,9,Yes,44.8,61,9,1
+A0036,48,36-50,Male,West,Public,General Checkup,Phone,89,0,24,12,No,11.1,49,9,0
+A0037,53,51+,Male,North,Private,Diagnostic,Mobile App,88,0,3,10,Yes,38.3,74,6,1
+A0038,47,36-50,Female,South,Public,Diagnostic,Phone,43,2,10,14,Yes,31.1,14,8,0
+A0039,87,51+,Male,West,Public,General Checkup,Walk-in,32,0,6,16,Yes,27.1,83,6,0
+A0040,71,51+,Male,South,Public,Specialist,Website,5,3,14,15,Yes,26.9,36,8,1
+A0041,78,51+,Female,West,Private,General Checkup,Walk-in,16,0,7,15,Yes,44.7,92,4,1
+A0042,41,36-50,Male,North,Public,Specialist,Mobile App,19,1,11,10,No,14.0,88,4,1
+A0043,48,36-50,Male,North,Public,General Checkup,Mobile App,26,1,5,15,Yes,53.1,47,10,0
+A0044,57,51+,Male,North,Private,General Checkup,Mobile App,12,0,8,8,Yes,50.9,29,2,0
+A0045,43,36-50,Female,West,Public,Diagnostic,Mobile App,65,3,20,16,No,32.9,88,2,1
+A0046,49,36-50,Male,East,Self-pay,General Checkup,Mobile App,54,0,9,16,No,13.3,91,1,1
+A0047,35,26-35,Female,West,Public,Specialist,Mobile App,7,0,19,13,Yes,47.3,25,10,0
+A0048,18,18-25,Female,South,Public,Follow-up,Website,4,0,14,12,No,18.3,21,10,0
+A0049,36,36-50,Female,South,Private,General Checkup,Phone,14,0,12,14,Yes,37.2,41,3,0
+A0050,54,51+,Female,South,Private,Specialist,Mobile App,45,0,16,14,Yes,46.3,13,3,0
+A0051,64,51+,Male,East,Private,Diagnostic,Mobile App,29,0,23,14,No,8.5,5,7,0
+A0052,24,18-25,Female,North,Public,Follow-up,Mobile App,74,0,23,10,No,3.2,28,6,0
+A0053,29,26-35,Male,East,Self-pay,Diagnostic,Walk-in,68,0,23,13,Yes,1.5,52,9,0
+A0054,29,26-35,Female,South,Private,Specialist,Website,4,0,21,16,Yes,54.5,24,9,0
+A0055,27,26-35,Male,East,Private,Diagnostic,Website,65,0,22,11,Yes,18.3,29,1,0
+A0056,39,36-50,Male,North,Private,Specialist,Walk-in,34,0,22,8,Yes,45.0,37,7,0
+A0057,19,18-25,Female,East,Public,Diagnostic,Mobile App,74,0,2,10,Yes,54.2,75,5,1
+A0058,81,51+,Male,West,Public,Follow-up,Mobile App,48,0,15,10,Yes,4.2,6,1,0
+A0059,62,51+,Male,South,Private,Follow-up,Mobile App,43,0,20,10,Yes,13.1,70,1,0
+A0060,32,26-35,Female,East,Public,Diagnostic,Walk-in,49,0,7,17,No,25.8,53,3,1
+A0061,73,51+,Male,South,Public,Follow-up,Website,53,0,12,16,No,50.0,32,2,1
+A0062,56,51+,Male,East,Public,General Checkup,Website,43,0,19,14,Yes,20.8,36,1,0
+A0063,67,51+,Male,West,Private,Diagnostic,Phone,72,0,20,15,Yes,12.0,75,5,1
+A0064,24,18-25,Male,West,Public,Follow-up,Walk-in,50,1,6,13,No,4.9,28,3,0
+A0065,33,26-35,Male,West,Private,Follow-up,Website,44,2,9,16,Yes,23.3,14,10,0
+A0066,64,51+,Female,South,Public,Follow-up,Mobile App,28,0,14,11,Yes,44.8,15,3,0
+A0067,21,18-25,Female,West,Private,General Checkup,Walk-in,66,0,6,13,Yes,47.9,46,5,0
+A0068,40,36-50,Female,East,Self-pay,Diagnostic,Website,85,0,23,16,No,32.5,56,3,1
+A0069,66,51+,Female,North,Self-pay,Diagnostic,Website,50,0,17,14,Yes,25.2,56,10,0
+A0070,20,18-25,Female,West,Public,General Checkup,Phone,15,1,12,17,No,50.4,21,8,0
+A0071,78,51+,Female,North,Public,Follow-up,Mobile App,23,2,13,16,No,54.5,42,2,1
+A0072,41,36-50,Male,South,Public,General Checkup,Mobile App,17,0,11,11,Yes,45.0,60,2,0
+A0073,57,51+,Female,South,Self-pay,Follow-up,Phone,48,0,13,8,Yes,28.4,24,10,0
+A0074,46,36-50,Female,West,Private,Diagnostic,Mobile App,39,0,1,8,Yes,36.3,80,7,0
+A0075,65,51+,Female,West,Public,Diagnostic,Website,19,0,14,15,No,13.5,69,4,1
+A0076,19,18-25,Female,North,Private,Specialist,Mobile App,44,0,21,13,Yes,37.6,35,6,0
+A0077,24,18-25,Female,West,Private,General Checkup,Phone,40,1,2,13,Yes,52.7,42,6,1
+A0078,36,36-50,Female,North,Private,Diagnostic,Website,89,3,9,14,Yes,36.1,68,6,1
+A0079,39,36-50,Male,East,Public,General Checkup,Phone,33,1,14,17,No,36.7,51,10,1
+A0080,70,51+,Male,West,Public,Diagnostic,Mobile App,7,0,12,12,Yes,43.6,53,4,0
+A0081,19,18-25,Female,West,Public,Specialist,Walk-in,58,1,8,14,Yes,16.3,52,8,0
+A0082,70,51+,Female,West,Private,Follow-up,Website,88,2,20,16,No,30.5,40,9,0
+A0083,88,51+,Male,East,Public,Specialist,Phone,25,1,19,8,Yes,40.1,54,10,0
+A0084,39,36-50,Male,South,Private,Specialist,Mobile App,85,1,23,14,Yes,51.8,90,3,1
+A0085,36,36-50,Male,East,Public,General Checkup,Mobile App,9,0,10,14,Yes,4.1,75,5,0
+A0086,20,18-25,Female,East,Private,Specialist,Website,34,1,22,8,No,55.0,56,2,1
+A0087,48,36-50,Male,West,Private,Diagnostic,Mobile App,54,0,24,8,No,37.0,37,3,0
+A0088,24,18-25,Female,East,Private,Diagnostic,Website,78,0,12,16,Yes,27.9,87,1,1
+A0089,87,51+,Male,West,Public,Diagnostic,Mobile App,12,0,1,16,Yes,24.8,47,5,0
+A0090,55,51+,Male,South,Self-pay,General Checkup,Mobile App,56,0,22,8,Yes,1.2,73,6,0
+A0091,32,26-35,Female,North,Public,General Checkup,Website,89,0,8,11,Yes,14.0,8,9,0
+A0092,68,51+,Female,South,Public,Specialist,Walk-in,64,0,3,13,Yes,14.2,17,10,0
+A0093,57,51+,Female,East,Public,Diagnostic,Walk-in,34,1,13,9,Yes,31.4,12,6,0
+A0094,77,51+,Male,East,Public,Follow-up,Mobile App,60,3,21,14,Yes,44.5,10,10,0
+A0095,59,51+,Male,East,Public,General Checkup,Phone,69,1,8,17,No,26.2,13,1,1
+A0096,35,26-35,Male,West,Public,General Checkup,Mobile App,70,2,4,10,No,48.6,87,1,1
+A0097,46,36-50,Female,West,Private,Specialist,Website,58,0,6,11,No,21.4,14,4,0
+A0098,25,18-25,Male,West,Private,Diagnostic,Phone,7,0,4,8,Yes,34.0,37,2,1
+A0099,27,26-35,Male,South,Private,Diagnostic,Phone,11,0,10,12,Yes,18.7,20,6,0
+A0100,37,36-50,Male,North,Private,Specialist,Phone,17,1,20,8,Yes,7.5,14,9,0
+A0101,22,18-25,Female,North,Self-pay,General Checkup,Mobile App,63,0,16,8,Yes,36.9,18,9,0
+A0102,50,36-50,Male,North,Public,General Checkup,Mobile App,58,2,11,10,Yes,23.6,42,5,1
+A0103,37,36-50,Female,East,Private,Diagnostic,Mobile App,10,1,15,10,Yes,42.0,81,6,0
+A0104,67,51+,Female,West,Private,Follow-up,Mobile App,89,0,22,10,Yes,10.0,46,9,0
+A0105,44,36-50,Female,East,Public,General Checkup,Walk-in,83,0,20,10,Yes,25.3,64,5,1
+A0106,65,51+,Male,South,Public,Diagnostic,Mobile App,28,0,19,13,Yes,47.8,49,8,0
+A0107,22,18-25,Male,East,Public,Diagnostic,Walk-in,74,0,20,15,Yes,45.9,76,8,0
+A0108,84,51+,Female,North,Public,Diagnostic,Walk-in,23,0,21,16,Yes,12.0,17,6,0
+A0109,48,36-50,Female,East,Public,Diagnostic,Website,7,1,2,17,Yes,48.9,59,3,1
+A0110,84,51+,Male,East,Private,Diagnostic,Website,57,0,5,14,No,54.3,34,7,1
+A0111,53,51+,Male,West,Public,Follow-up,Phone,79,0,5,12,No,8.7,52,2,1
+A0112,86,51+,Female,South,Private,Diagnostic,Mobile App,31,0,3,14,Yes,16.4,10,3,0
+A0113,80,51+,Female,North,Public,Specialist,Mobile App,62,0,11,17,Yes,43.1,36,8,0
+A0114,65,51+,Male,West,Public,General Checkup,Mobile App,45,2,15,17,Yes,11.1,35,5,0
+A0115,84,51+,Male,East,Public,Specialist,Mobile App,65,3,20,12,Yes,17.4,13,7,0
+A0116,18,18-25,Male,East,Public,Diagnostic,Phone,88,0,13,10,Yes,17.0,43,7,0
+A0117,51,51+,Female,North,Private,Follow-up,Walk-in,31,0,7,10,Yes,51.1,69,2,0
+A0118,67,51+,Female,South,Self-pay,Specialist,Website,63,1,14,15,Yes,35.3,56,2,1
+A0119,88,51+,Female,North,Public,Specialist,Walk-in,46,0,3,14,Yes,31.6,52,8,1
+A0120,49,36-50,Male,West,Public,Specialist,Mobile App,77,0,4,10,Yes,51.3,33,7,0
+A0121,29,26-35,Male,North,Private,Follow-up,Walk-in,6,0,21,8,Yes,10.7,39,6,0
+A0122,78,51+,Female,West,Public,Specialist,Website,22,1,8,8,Yes,21.0,69,4,1
+A0123,39,36-50,Female,South,Private,Follow-up,Website,77,0,13,16,No,51.8,87,6,1
+A0124,30,26-35,Female,East,Private,Diagnostic,Phone,64,1,13,15,Yes,14.2,50,4,0
+A0125,41,36-50,Female,North,Public,Follow-up,Mobile App,2,2,2,10,No,32.3,14,6,1
+A0126,47,36-50,Male,East,Private,Diagnostic,Phone,88,1,9,13,Yes,51.0,75,5,1
+A0127,57,51+,Female,East,Public,Follow-up,Mobile App,44,0,7,8,No,52.9,55,8,1
+A0128,84,51+,Female,North,Public,Diagnostic,Phone,87,2,17,11,Yes,17.7,38,9,0
+A0129,83,51+,Male,South,Self-pay,Diagnostic,Website,33,3,13,10,Yes,35.4,60,2,1
+A0130,29,26-35,Female,West,Public,Follow-up,Website,5,0,19,11,Yes,,11,1,0
+A0131,35,26-35,Female,South,Public,General Checkup,Walk-in,65,0,16,14,Yes,45.9,27,2,0
+A0132,84,51+,Female,West,Public,General Checkup,Walk-in,2,0,13,9,No,32.4,94,3,1
+A0133,75,51+,Male,East,Public,Specialist,Website,6,0,14,14,No,43.0,43,10,0
+A0134,85,51+,Female,North,Self-pay,Follow-up,Phone,37,1,22,14,Yes,,22,5,0
+A0135,57,51+,Male,South,Private,Diagnostic,Phone,71,0,14,9,Yes,42.1,45,8,1
+A0136,65,51+,Male,East,Private,Specialist,Website,56,0,12,9,Yes,30.6,31,3,0
+A0137,49,36-50,Female,North,Self-pay,Follow-up,Website,48,0,11,16,No,5.0,43,7,0
+A0138,29,26-35,Female,South,Public,Specialist,Phone,73,0,6,13,Yes,31.9,21,2,0
+A0139,46,36-50,Male,North,Public,General Checkup,Walk-in,35,2,20,17,Yes,49.4,57,8,0
+A0140,80,51+,Female,North,Public,General Checkup,Mobile App,9,0,13,16,No,42.5,76,3,1
+A0141,20,18-25,Male,East,Private,Specialist,Website,41,0,22,16,No,10.4,39,8,0
+A0142,18,18-25,Female,East,Private,Specialist,Walk-in,64,0,19,10,Yes,6.9,86,10,0
+A0143,58,51+,Female,North,Self-pay,Specialist,Website,16,4,22,11,Yes,49.3,66,6,1
+A0144,82,51+,Female,East,Public,General Checkup,Mobile App,28,0,14,15,Yes,3.2,45,5,0
+A0145,24,18-25,Male,West,Private,Follow-up,Website,66,0,2,9,No,12.2,6,6,0
+A0146,39,36-50,Female,East,Private,Specialist,Walk-in,59,0,3,12,Yes,22.3,50,5,0
+A0147,65,51+,Male,West,Private,Follow-up,Phone,30,1,14,11,Yes,51.6,86,6,1
+A0148,82,51+,Female,South,Public,Diagnostic,Website,71,0,16,12,No,52.8,22,7,1
+A0149,58,51+,Female,East,Public,General Checkup,Website,12,1,2,9,Yes,13.5,6,3,0
+A0150,56,51+,Female,South,Private,Specialist,Phone,23,0,10,9,Yes,5.4,92,7,0
+A0151,76,51+,Female,South,Public,Follow-up,Mobile App,79,2,22,16,No,28.4,71,9,1
+A0152,29,26-35,Male,West,Public,General Checkup,Phone,60,0,13,9,No,23.9,69,8,0
+A0153,47,36-50,Female,East,Public,Specialist,Website,45,1,17,13,Yes,35.4,9,2,1
+A0154,81,51+,Male,East,Private,General Checkup,Website,63,0,4,13,Yes,16.6,17,9,0
+A0155,69,51+,Female,West,Public,Diagnostic,Walk-in,14,0,1,12,Yes,53.9,77,8,1
+A0156,81,51+,Male,South,Private,Specialist,Phone,20,0,14,12,Yes,28.8,23,4,0
+A0157,60,51+,Female,South,Public,Specialist,Website,39,2,1,11,Yes,35.6,30,8,1
+A0158,53,51+,Female,North,Private,General Checkup,Website,39,0,5,10,Yes,12.2,6,10,0
+A0159,27,26-35,Male,West,Public,Follow-up,Phone,25,0,4,17,Yes,2.4,38,9,0
+A0160,33,26-35,Male,East,Public,General Checkup,Phone,14,0,5,13,Yes,50.7,21,5,0
+A0161,75,51+,Female,West,Private,Follow-up,Walk-in,81,4,18,17,No,38.4,33,10,1
+A0162,73,51+,Female,West,Public,Diagnostic,Phone,34,0,1,14,Yes,11.7,10,8,0
+A0163,56,51+,Male,West,Public,Specialist,Website,66,1,3,11,Yes,16.5,34,7,0
+A0164,25,18-25,Female,South,Private,Follow-up,Walk-in,24,0,5,13,No,7.8,62,8,1
+A0165,26,26-35,Female,East,Public,General Checkup,Phone,47,2,19,10,Yes,44.8,49,8,0
+A0166,50,36-50,Female,East,Self-pay,Diagnostic,Phone,57,0,5,11,Yes,53.8,42,9,1
+A0167,51,51+,Male,North,Public,Specialist,Walk-in,1,1,6,10,Yes,7.3,77,5,0
+A0168,82,51+,Male,South,Private,Follow-up,Walk-in,2,0,10,12,Yes,33.6,5,6,0
+A0169,39,36-50,Female,North,Private,Follow-up,Mobile App,86,0,18,16,No,36.2,54,8,1
+A0170,37,36-50,Female,East,Public,Specialist,Walk-in,37,1,6,15,No,30.9,52,10,1
+A0171,28,26-35,Female,West,Public,Follow-up,Walk-in,5,0,13,11,Yes,38.0,71,10,0
+A0172,37,36-50,Male,South,Public,Specialist,Website,10,0,10,9,No,4.3,16,1,0
+A0173,73,51+,Male,West,Private,Specialist,Phone,21,1,8,15,Yes,30.9,9,3,0
+A0174,45,36-50,Female,North,Public,Specialist,Website,66,0,13,17,Yes,11.0,54,2,1
+A0175,66,51+,Male,South,Public,Follow-up,Mobile App,44,0,3,13,Yes,15.1,37,3,0
+A0176,63,51+,Female,West,Private,General Checkup,Website,85,1,6,13,Yes,2.3,54,4,0
+A0177,86,51+,Female,North,Public,General Checkup,Website,52,0,17,12,Yes,52.2,49,4,0
+A0178,61,51+,Male,West,Public,Follow-up,Mobile App,63,0,7,11,Yes,33.5,54,2,1
+A0179,51,51+,Female,East,Public,Specialist,Mobile App,45,1,7,12,Yes,35.2,58,1,1
+A0180,22,18-25,Female,West,Private,General Checkup,Mobile App,78,0,24,12,Yes,11.4,80,10,0
+A0181,73,51+,Female,North,Public,Diagnostic,Phone,9,1,4,11,No,13.5,95,4,1
+A0182,44,36-50,Female,West,Public,Diagnostic,Mobile App,70,0,6,16,Yes,21.1,6,3,0
+A0183,66,51+,Female,South,Private,Follow-up,Walk-in,17,0,7,16,Yes,47.5,32,1,1
+A0184,55,51+,Male,North,Private,Diagnostic,Website,68,0,5,9,No,3.4,56,9,0
+A0185,35,26-35,Female,West,Public,Specialist,Website,36,0,16,14,Yes,12.0,6,5,0
+A0186,60,51+,Male,West,Public,Specialist,Phone,5,1,22,13,No,23.0,93,4,1
+A0187,85,51+,Female,South,Private,Follow-up,Walk-in,90,3,9,13,No,51.7,85,5,1
+A0188,44,36-50,Male,East,Private,Diagnostic,Phone,73,0,10,15,Yes,49.1,62,6,0
+A0189,53,51+,Female,West,Public,Follow-up,Walk-in,7,0,13,10,Yes,24.1,78,10,1
+A0190,25,18-25,Male,West,Public,Specialist,Walk-in,37,0,19,17,Yes,41.0,70,5,0
+A0191,24,18-25,Female,West,Self-pay,General Checkup,Walk-in,35,1,10,15,Yes,30.3,60,8,0
+A0192,85,51+,Female,North,Public,General Checkup,Mobile App,29,2,13,10,No,37.0,71,8,1
+A0193,71,51+,Female,East,Self-pay,General Checkup,Phone,66,2,15,13,No,25.7,76,2,1
+A0194,37,36-50,Female,South,Private,Specialist,Website,82,0,6,11,No,21.5,72,1,0
+A0195,18,18-25,Male,North,Public,General Checkup,Walk-in,39,1,6,14,Yes,35.2,51,3,1
+A0196,29,26-35,Female,North,Private,General Checkup,Phone,55,0,20,8,Yes,14.7,52,5,0
+A0197,24,18-25,Male,West,Public,Specialist,Phone,75,0,23,14,Yes,51.3,51,2,1
+A0198,67,51+,Female,West,Private,General Checkup,Website,32,0,5,9,Yes,46.8,49,5,0
+A0199,40,36-50,Female,East,Private,Follow-up,Website,86,3,20,13,Yes,49.7,84,7,1
+A0200,78,51+,Male,West,Public,General Checkup,Mobile App,71,1,19,15,Yes,20.5,72,9,0
+A0201,19,18-25,Male,North,Private,Specialist,Website,3,0,12,9,Yes,45.6,33,10,0
+A0202,48,36-50,Female,West,Public,General Checkup,Phone,18,0,20,12,Yes,36.5,18,9,0
+A0203,20,18-25,Male,North,Public,Specialist,Phone,69,0,17,8,Yes,28.0,44,5,1
+A0204,34,26-35,Female,East,Public,Diagnostic,Walk-in,14,2,3,11,No,46.8,65,3,1
+A0205,35,26-35,Male,East,Private,General Checkup,Walk-in,23,1,16,14,Yes,,7,7,0
+A0206,41,36-50,Male,South,Public,Diagnostic,Phone,45,1,14,17,Yes,42.7,54,1,0
+A0207,70,51+,Female,East,Public,Diagnostic,Website,68,0,18,16,Yes,37.7,64,2,0
+A0208,34,26-35,Female,West,Self-pay,Diagnostic,Phone,62,0,13,8,Yes,36.2,9,3,0
+A0209,52,51+,Female,South,Self-pay,Specialist,Website,25,2,5,11,Yes,50.3,89,1,1
+A0210,34,26-35,Male,West,Private,Follow-up,Phone,63,0,1,14,No,22.8,65,8,0
+A0211,29,26-35,Male,East,Public,General Checkup,Phone,59,0,9,12,No,47.3,61,1,1
+A0212,79,51+,Male,South,Public,General Checkup,Walk-in,18,1,15,12,No,11.5,49,2,1
+A0213,40,36-50,Female,West,Public,Specialist,Phone,56,0,13,16,No,21.5,69,5,1
+A0214,76,51+,Male,North,Private,Follow-up,Website,40,0,7,17,Yes,44.4,23,9,0
+A0215,74,51+,Female,East,Private,Specialist,Mobile App,59,0,21,14,Yes,36.4,73,4,1
+A0216,53,51+,Male,North,Public,General Checkup,Walk-in,42,1,17,11,No,41.6,39,9,1
+A0217,52,51+,Male,West,Private,Diagnostic,Mobile App,81,0,1,11,No,12.7,81,2,1
+A0218,69,51+,Female,West,Private,Specialist,Phone,71,0,12,8,Yes,31.3,69,2,0
+A0219,38,36-50,Male,South,Public,Diagnostic,Walk-in,21,0,8,15,No,38.6,5,5,0
+A0220,34,26-35,Male,North,Public,Specialist,Phone,28,0,17,16,No,52.6,88,4,1
+A0221,79,51+,Female,West,Private,Diagnostic,Walk-in,85,0,12,9,Yes,27.8,14,5,0
+A0222,56,51+,Female,East,Private,Specialist,Phone,47,0,21,10,No,,32,2,1
+A0223,22,18-25,Male,North,Public,Follow-up,Mobile App,10,0,11,12,Yes,26.5,81,7,0
+A0224,63,51+,Male,West,Public,General Checkup,Website,18,4,11,14,No,27.6,39,3,1
+A0225,62,51+,Male,South,Public,Follow-up,Walk-in,20,1,15,9,No,1.3,8,7,0
+A0226,54,51+,Male,East,Private,Follow-up,Phone,62,3,3,14,Yes,4.3,89,8,1
+A0227,24,18-25,Male,West,Private,Specialist,Website,69,0,9,17,Yes,39.5,76,4,1
+A0228,73,51+,Female,West,Private,Diagnostic,Walk-in,48,0,5,14,Yes,30.6,81,3,1
+A0229,75,51+,Male,South,Public,Diagnostic,Mobile App,48,0,22,8,Yes,14.9,93,7,0
+A0230,37,36-50,Male,East,Private,General Checkup,Walk-in,45,0,23,10,Yes,22.1,10,7,0
+A0231,61,51+,Female,North,Private,Follow-up,Walk-in,25,2,1,8,Yes,27.8,43,6,1
+A0232,27,26-35,Female,South,Public,Specialist,Website,89,1,1,16,Yes,39.4,32,3,0
+A0233,26,26-35,Male,West,Public,General Checkup,Walk-in,80,2,19,17,Yes,42.5,60,4,1
+A0234,45,36-50,Female,East,Private,Follow-up,Website,71,1,15,12,Yes,29.6,12,6,0
+A0235,37,36-50,Male,West,Self-pay,Specialist,Walk-in,54,3,20,13,Yes,,40,8,1
+A0236,64,51+,Female,West,Public,General Checkup,Mobile App,56,3,20,15,No,34.8,61,8,1
+A0237,73,51+,Male,South,Private,Follow-up,Walk-in,77,0,6,14,Yes,43.6,80,10,1
+A0238,49,36-50,Female,South,Private,Follow-up,Website,61,0,14,12,No,7.8,78,10,0
+A0239,70,51+,Male,West,Private,Follow-up,Walk-in,45,0,17,15,Yes,53.2,79,4,1
+A0240,54,51+,Male,West,Private,Diagnostic,Phone,17,2,4,13,Yes,41.4,82,6,1
+A0241,74,51+,Female,West,Private,General Checkup,Walk-in,26,0,7,16,Yes,13.6,13,2,0
+A0242,82,51+,Female,West,Private,General Checkup,Website,86,0,24,17,Yes,20.2,47,6,0
+A0243,83,51+,Female,South,Private,Specialist,Mobile App,21,0,20,15,No,22.6,49,7,0
+A0244,58,51+,Female,West,Public,Specialist,Walk-in,17,0,24,13,Yes,37.9,50,5,0
+A0245,60,51+,Male,West,Public,Follow-up,Mobile App,89,0,5,11,Yes,8.8,19,1,0
+A0246,52,51+,Female,West,Public,General Checkup,Website,82,1,15,9,Yes,8.7,95,1,1
+A0247,70,51+,Female,East,Public,General Checkup,Mobile App,55,2,20,10,Yes,39.1,6,6,0
+A0248,20,18-25,Female,North,Private,Specialist,Mobile App,36,0,14,15,No,23.7,8,2,0
+A0249,50,36-50,Female,South,Public,Diagnostic,Mobile App,49,1,6,12,Yes,29.9,63,2,0
+A0250,65,51+,Male,North,Self-pay,General Checkup,Phone,49,0,17,17,No,27.0,79,8,0
+A0251,55,51+,Female,East,Public,Diagnostic,Phone,39,0,4,11,Yes,8.6,18,10,0
+A0252,48,36-50,Male,East,Public,Specialist,Walk-in,28,0,1,13,Yes,,56,9,0
+A0253,60,51+,Female,East,Public,Follow-up,Walk-in,32,1,5,17,Yes,43.5,89,5,0
+A0254,37,36-50,Male,South,Public,Diagnostic,Walk-in,51,0,5,8,No,43.0,93,7,1
+A0255,81,51+,Female,East,Public,Follow-up,Mobile App,80,1,9,15,Yes,22.5,86,1,1
+A0256,45,36-50,Female,South,Private,Specialist,Website,17,1,15,17,No,51.6,32,8,0
+A0257,77,51+,Male,North,Public,General Checkup,Walk-in,22,2,13,15,Yes,23.3,50,9,0
+A0258,65,51+,Male,East,Public,Diagnostic,Phone,50,0,14,16,No,14.8,60,9,1
+A0259,31,26-35,Female,East,Public,Follow-up,Phone,33,1,15,13,No,9.2,86,6,1
+A0260,18,18-25,Male,West,Public,Diagnostic,Website,27,0,14,8,Yes,46.9,23,1,0
+A0261,19,18-25,Female,West,Public,Diagnostic,Walk-in,11,1,10,14,No,9.6,75,3,1
+A0262,55,51+,Male,South,Self-pay,Follow-up,Walk-in,13,0,5,11,Yes,47.9,23,8,0
+A0263,75,51+,Male,North,Private,Specialist,Phone,2,1,23,9,No,20.4,41,6,0
+A0264,19,18-25,Female,West,Private,Diagnostic,Website,30,0,5,13,No,44.5,24,3,0
+A0265,24,18-25,Male,North,Private,General Checkup,Website,62,0,18,8,Yes,33.1,15,5,0
+A0266,59,51+,Female,West,Public,Specialist,Website,29,0,17,11,Yes,41.8,89,6,0
+A0267,25,18-25,Male,East,Private,Follow-up,Mobile App,11,0,21,12,Yes,43.5,6,5,0
+A0268,35,26-35,Male,South,Private,Diagnostic,Walk-in,3,0,14,17,Yes,10.4,59,10,0
+A0269,30,26-35,Male,South,Private,Diagnostic,Mobile App,68,1,10,13,No,40.8,30,9,1
+A0270,25,18-25,Female,South,Private,General Checkup,Mobile App,64,0,21,10,Yes,34.5,22,2,0
+A0271,38,36-50,Male,East,Public,Specialist,Website,85,3,19,10,Yes,49.0,51,6,1
+A0272,51,51+,Female,East,Public,Diagnostic,Walk-in,82,1,17,17,No,52.7,44,4,1
+A0273,38,36-50,Male,East,Private,Specialist,Website,32,1,23,8,Yes,5.7,11,6,0
+A0274,69,51+,Male,South,Private,Follow-up,Phone,43,0,14,13,Yes,34.1,42,9,0
+A0275,83,51+,Male,South,Private,Follow-up,Website,74,0,24,16,No,24.0,29,5,0
+A0276,44,36-50,Female,South,Public,Specialist,Website,54,0,21,12,Yes,46.6,48,8,0
+A0277,59,51+,Male,South,Private,General Checkup,Phone,75,0,22,9,Yes,40.4,40,2,0
+A0278,51,51+,Male,South,Public,Diagnostic,Website,67,1,8,8,Yes,28.4,68,2,1
+A0279,32,26-35,Male,West,Public,General Checkup,Website,63,0,9,15,Yes,12.2,91,7,0
+A0280,63,51+,Male,North,Public,Follow-up,Website,46,0,22,10,Yes,30.8,12,2,0
+A0281,41,36-50,Male,West,Private,General Checkup,Mobile App,70,1,7,13,No,19.9,38,10,0
+A0282,66,51+,Female,South,Public,Follow-up,Walk-in,39,0,9,8,Yes,25.8,6,10,0
+A0283,33,26-35,Male,South,Private,General Checkup,Website,66,0,11,16,Yes,22.4,95,9,0
+A0284,65,51+,Female,North,Private,Diagnostic,Mobile App,76,0,6,16,Yes,44.1,36,10,1
+A0285,45,36-50,Male,South,Public,General Checkup,Website,58,0,3,12,Yes,50.6,91,1,1
+A0286,26,26-35,Female,West,Self-pay,Diagnostic,Phone,41,2,5,10,Yes,51.1,33,7,1
+A0287,73,51+,Male,South,Public,Follow-up,Phone,34,0,11,11,Yes,2.2,76,9,0
+A0288,19,18-25,Female,North,Public,General Checkup,Phone,44,1,7,10,Yes,43.6,43,1,0
+A0289,54,51+,Male,South,Private,Follow-up,Walk-in,46,0,7,17,Yes,9.8,61,2,0
+A0290,37,36-50,Male,South,Self-pay,General Checkup,Mobile App,24,1,3,9,No,43.1,75,10,1
+A0291,23,18-25,Male,East,Private,General Checkup,Website,42,1,24,15,Yes,37.4,67,2,1
+A0292,50,36-50,Male,West,Private,Specialist,Mobile App,48,0,18,8,Yes,39.1,89,6,0
+A0293,30,26-35,Female,East,Private,Specialist,Website,34,0,19,17,Yes,48.9,73,5,1
+A0294,82,51+,Male,North,Private,Specialist,Website,63,0,8,12,No,14.9,88,7,1
+A0295,79,51+,Male,South,Public,Diagnostic,Phone,5,0,3,9,No,29.4,91,3,1
+A0296,25,18-25,Male,East,Private,General Checkup,Walk-in,27,0,19,15,Yes,46.7,48,2,0
+A0297,63,51+,Female,East,Public,Follow-up,Walk-in,2,2,15,9,Yes,21.4,51,9,1
+A0298,75,51+,Female,North,Public,General Checkup,Walk-in,52,0,9,8,Yes,36.9,85,7,1
+A0299,87,51+,Male,South,Public,General Checkup,Mobile App,49,0,3,9,Yes,28.2,18,9,0
+A0300,45,36-50,Male,East,Public,Diagnostic,Mobile App,88,0,23,16,Yes,39.0,20,6,1
+A0301,65,51+,Female,West,Private,Follow-up,Website,83,0,10,9,No,20.3,62,4,0
+A0302,36,36-50,Male,West,Private,Specialist,Walk-in,41,3,11,15,Yes,17.5,32,10,1
+A0303,19,18-25,Female,West,Private,General Checkup,Phone,23,0,9,16,Yes,4.0,67,8,0
+A0304,51,51+,Male,West,Public,Diagnostic,Mobile App,75,2,14,16,Yes,54.3,48,1,1
+A0305,43,36-50,Male,South,Public,Specialist,Mobile App,34,0,19,9,Yes,40.0,85,1,1
+A0306,63,51+,Male,East,Private,General Checkup,Phone,30,0,23,12,Yes,7.3,77,4,0
+A0307,46,36-50,Male,East,Private,Diagnostic,Phone,47,1,12,17,Yes,17.6,79,10,0
+A0308,47,36-50,Female,West,Public,Specialist,Mobile App,53,1,23,10,Yes,3.8,12,4,0
+A0309,83,51+,Male,North,Private,Specialist,Website,44,0,19,8,No,21.5,68,3,0
+A0310,57,51+,Female,West,Private,Specialist,Phone,74,0,3,8,Yes,49.6,9,6,0
+A0311,45,36-50,Male,South,Private,General Checkup,Walk-in,76,4,12,12,Yes,9.9,14,10,0
+A0312,38,36-50,Male,East,Public,General Checkup,Walk-in,46,0,17,17,Yes,30.8,38,4,0
+A0313,71,51+,Female,East,Self-pay,Diagnostic,Website,57,2,10,10,Yes,33.9,21,1,1
+A0314,32,26-35,Female,West,Private,Diagnostic,Phone,49,0,21,15,Yes,49.7,32,7,1
+A0315,71,51+,Male,West,Private,Specialist,Walk-in,24,0,16,10,Yes,44.1,53,7,0
+A0316,48,36-50,Female,South,Public,Diagnostic,Phone,53,0,4,13,No,39.6,75,8,1
+A0317,63,51+,Female,South,Public,General Checkup,Walk-in,61,0,18,13,No,38.1,18,10,0
+A0318,79,51+,Male,North,Private,Specialist,Website,82,0,6,10,Yes,21.1,63,8,0
+A0319,27,26-35,Male,East,Private,General Checkup,Mobile App,49,1,20,8,Yes,44.0,26,1,1
+A0320,39,36-50,Male,West,Public,Diagnostic,Website,80,0,7,15,Yes,48.6,44,8,0
+A0321,35,26-35,Female,South,Private,Diagnostic,Website,40,0,5,10,Yes,1.2,94,1,0
+A0322,20,18-25,Female,North,Public,Follow-up,Walk-in,83,0,4,12,Yes,11.8,91,5,0
+A0323,77,51+,Female,South,Public,Specialist,Website,85,0,23,16,Yes,54.8,5,6,0
+A0324,52,51+,Female,West,Private,Specialist,Website,38,0,24,15,No,42.1,26,2,0
+A0325,37,36-50,Female,North,Public,Specialist,Phone,10,1,9,12,No,48.0,77,8,1
+A0326,27,26-35,Female,East,Public,Specialist,Walk-in,56,4,9,13,Yes,26.0,66,10,1
+A0327,34,26-35,Male,South,Self-pay,Diagnostic,Walk-in,81,2,2,9,Yes,22.8,22,1,1
+A0328,23,18-25,Female,North,Private,Diagnostic,Mobile App,13,0,20,12,No,37.0,33,10,0
+A0329,40,36-50,Female,East,Private,Diagnostic,Website,21,1,14,9,Yes,41.4,31,3,1
+A0330,18,18-25,Female,West,Public,General Checkup,Walk-in,42,0,15,14,Yes,38.0,21,4,0
+A0331,49,36-50,Male,West,Private,General Checkup,Phone,65,0,22,12,Yes,1.7,71,10,0
+A0332,33,26-35,Female,South,Private,Specialist,Phone,63,0,4,17,Yes,29.5,80,5,0
+A0333,85,51+,Female,South,Public,General Checkup,Walk-in,71,2,24,13,Yes,11.5,5,10,0
+A0334,37,36-50,Female,South,Public,Follow-up,Mobile App,46,1,16,17,No,8.7,57,8,0
+A0335,27,26-35,Female,North,Public,Specialist,Phone,48,0,7,9,No,4.2,37,10,0
+A0336,81,51+,Female,East,Public,Follow-up,Walk-in,32,0,15,15,No,49.9,72,3,1
+A0337,84,51+,Female,West,Self-pay,General Checkup,Website,32,2,20,15,Yes,32.2,81,6,0
+A0338,77,51+,Male,East,Public,Specialist,Walk-in,28,2,19,16,Yes,1.4,90,7,0
+A0339,50,36-50,Male,South,Self-pay,General Checkup,Walk-in,50,1,20,17,No,25.1,84,4,1
+A0340,51,51+,Male,South,Private,Follow-up,Website,56,0,17,13,No,15.5,63,3,1
+A0341,85,51+,Male,East,Public,General Checkup,Website,78,0,11,14,No,10.8,14,1,0
+A0342,19,18-25,Male,West,Private,Follow-up,Website,85,2,5,8,Yes,52.1,36,3,1
+A0343,79,51+,Male,North,Public,Diagnostic,Mobile App,73,1,19,17,Yes,4.8,25,1,0
+A0344,65,51+,Female,East,Private,Diagnostic,Mobile App,10,1,18,9,No,6.9,12,3,0
+A0345,18,18-25,Female,East,Public,Specialist,Walk-in,48,1,15,8,Yes,38.8,24,2,1
+A0346,68,51+,Male,East,Private,Follow-up,Phone,31,0,16,10,No,26.7,32,5,0
+A0347,60,51+,Male,West,Public,Follow-up,Walk-in,22,0,5,12,No,17.3,32,5,1
+A0348,50,36-50,Female,North,Private,Follow-up,Walk-in,32,0,5,8,Yes,6.9,22,5,0
+A0349,54,51+,Female,South,Public,General Checkup,Walk-in,67,0,1,9,Yes,48.7,54,4,1
+A0350,32,26-35,Male,West,Private,Specialist,Mobile App,86,0,12,16,Yes,26.2,13,3,0
+A0351,24,18-25,Male,West,Public,Follow-up,Website,4,0,2,13,No,23.2,27,5,0
+A0352,47,36-50,Male,North,Public,Diagnostic,Mobile App,5,1,20,14,Yes,11.3,64,4,1
+A0353,20,18-25,Female,West,Private,General Checkup,Mobile App,1,0,24,15,No,27.7,48,3,1
+A0354,43,36-50,Male,North,Private,Specialist,Website,68,2,7,11,No,21.5,66,7,1
+A0355,68,51+,Female,West,Public,Specialist,Phone,54,0,22,11,Yes,14.3,63,4,0
+A0356,36,36-50,Male,East,Public,Diagnostic,Mobile App,62,0,11,10,Yes,4.8,40,10,0
+A0357,56,51+,Male,South,Public,Diagnostic,Mobile App,46,0,10,14,No,43.4,66,4,1
+A0358,57,51+,Female,South,Self-pay,Follow-up,Phone,17,0,24,8,No,36.7,16,6,0
+A0359,45,36-50,Female,West,Private,General Checkup,Walk-in,17,0,18,16,Yes,46.5,12,2,0
+A0360,24,18-25,Female,South,Private,Follow-up,Mobile App,78,0,10,17,Yes,7.2,91,9,0
+A0361,74,51+,Male,South,Private,Specialist,Phone,18,1,24,17,Yes,19.5,7,2,0
+A0362,52,51+,Female,South,Private,Specialist,Website,4,0,15,11,Yes,47.7,43,6,1
+A0363,37,36-50,Female,East,Public,Specialist,Phone,23,0,21,14,Yes,27.9,51,10,0
+A0364,86,51+,Female,South,Private,General Checkup,Website,32,0,3,10,No,25.3,81,1,1
+A0365,67,51+,Male,East,Private,Specialist,Website,19,1,2,14,No,17.8,81,4,1
+A0366,28,26-35,Male,South,Public,Follow-up,Walk-in,39,0,5,11,No,48.5,14,6,1
+A0367,44,36-50,Male,East,Public,General Checkup,Walk-in,86,0,9,8,No,52.6,61,7,1
+A0368,62,51+,Male,East,Private,Specialist,Walk-in,34,1,16,16,No,50.9,53,9,1
+A0369,35,26-35,Male,North,Public,Follow-up,Phone,67,0,15,10,Yes,16.6,12,3,0
+A0370,25,18-25,Female,South,Private,Follow-up,Walk-in,61,1,20,14,No,38.8,50,10,1
+A0371,74,51+,Male,North,Private,Follow-up,Website,19,0,9,14,Yes,5.2,92,10,0
+A0372,46,36-50,Female,South,Public,Diagnostic,Phone,46,1,12,16,Yes,19.5,62,10,1
+A0373,45,36-50,Female,West,Private,Diagnostic,Walk-in,5,0,7,12,No,27.7,83,3,1
+A0374,28,26-35,Female,North,Private,General Checkup,Mobile App,66,0,12,15,Yes,4.4,76,4,0
+A0375,65,51+,Female,South,Private,Specialist,Website,54,0,9,10,Yes,30.4,64,1,1
+A0376,68,51+,Male,West,Public,General Checkup,Website,17,2,10,16,Yes,32.5,62,10,0
+A0377,72,51+,Male,East,Public,Follow-up,Phone,17,0,4,11,Yes,1.7,61,2,0
+A0378,54,51+,Male,South,Public,Follow-up,Phone,83,0,10,8,Yes,16.7,76,4,0
+A0379,29,26-35,Male,West,Private,Diagnostic,Walk-in,82,0,11,12,Yes,54.1,8,4,1
+A0380,50,36-50,Male,West,Public,Diagnostic,Mobile App,49,0,24,13,Yes,17.7,67,7,0
